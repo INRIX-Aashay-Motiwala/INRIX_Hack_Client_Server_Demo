@@ -1,4 +1,4 @@
-# INRIX_Hack_Client_Server_Demo
+# INRIX_Hack_Client_Server_Flask_Demo
 This repository will guide you through the process of creating a Flask server/backend app, developing APIs, setting up a frontend Vanilla JavaScript application, and making a simple API call. The goal is to demonstrate how to seamlessly integrate and exchange data between the frontend and backend applications.
 
 
