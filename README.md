@@ -63,4 +63,6 @@ If you wish to see an ExpressJS example for the same project goto: [ExpressJS co
 - **static/:** Static files (CSS, JS).
 ---
 
+If you want to learn how to parse a JSON Dataset goto [Example](https://github.com/INRIX-Aashay-Motiwala/INRIX_Hack_Client_Server_Demo/blob/main/json_parser_example.py)
+
 **Happy Hacking!**
