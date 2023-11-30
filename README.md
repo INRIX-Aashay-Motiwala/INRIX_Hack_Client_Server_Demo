@@ -39,7 +39,7 @@ If you wish to see an ExpressJS example for the same project goto: [ExpressJS co
 
 3. **Install Dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip3 install -r requirements.txt
     ```
 
 ## Running the Application
