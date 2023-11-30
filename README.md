@@ -32,6 +32,7 @@ If you wish to see an ExpressJS example for the same project goto: [ExpressJS co
 
 2. **Create a Virtual Environment (Optional):**
     ```bash
+    pip3 install virtualenv
     virtualenv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
