@@ -41,8 +41,7 @@ If you wish to see an ExpressJS example for the same project goto: [ExpressJS co
     ```bash
     pip3 install -r requirements.txt
     ```
-
-## !!! Make sure to paste your INRIX APP_ID and HASH_TOKEN in app/utils/auth_utils.py before you run your application
+4. !!! Make sure to paste your INRIX APP_ID and HASH_TOKEN in app/utils/auth_utils.py i.e. [here](https://github.com/INRIX-Aashay-Motiwala/INRIX_Hack_Client_Server_Demo/blob/7058cd0d5c7a482a93ac7a6efeef68428fcab106/app/utils/auth_utils.py#L3) before you run your application
 
 ## Running the Application
 
