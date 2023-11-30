@@ -42,7 +42,7 @@ If you wish to see an ExpressJS example for the same project goto: [ExpressJS co
     pip3 install -r requirements.txt
     ```
 
-## !!! Make sure to paste your INRIX APP_ID and HASH_TOKEN in app/utils/auth_utils.py
+## !!! Make sure to paste your INRIX APP_ID and HASH_TOKEN in app/utils/auth_utils.py before you run your application
 
 ## Running the Application
 
